@@ -1,0 +1,19 @@
+{
+  "name": "hellowithexpress",
+  "version": "1.0.0",
+  "description": "hello world with express",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "eslint": "^5.3.0",
+    "express": "^4.16.3",
+    "nodemailer": "^4.6.7",
+    "pug": "^2.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "none"
+  },
+  "author": "",
+  "license": "ISC"
+}
