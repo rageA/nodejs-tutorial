@@ -9,6 +9,13 @@ router.get('/add', (req, res) => {
     res.render('ideas/add');
 });
 
+router.get('', (req, res) =>{
+
+    res.render()
+
+
+});
+
 router.post('/', (req, res) => {
     let errors = [];
 
